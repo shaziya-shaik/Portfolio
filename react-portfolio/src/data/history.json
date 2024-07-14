@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation":"MAQ Softwares",
+    "startDate": "April, 2024",
+    "endDate": "Present",
+    "experiences": ["Proficient in developing and deploying various object-oriented and web-based Enterprise Applications using Java/J2EE technologies, and managing the complete System Development Life Cycle (SDLC). Skilled in Version Control Systems like GitHub, including managing Pull/Push requests of repositories on Git.Staging, and Production environments.Established the power BI and Azure synapse , Azure fabrics pipeline for automatic deployment of tabular models, streamlining deployment.Analysis servers."],
+    "imageSrc": "history/MAQ.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Projak Infotech Private ltd",
+    "startDate": "oct, 2023",
+    "endDate": "May, 2024",
+    "experiences": ["Worked as a Java Back End developer, specializing in creating J2EE Applications.Possess hands-on experience in application design and development using Core Java, J2EE,JSP, Servlets, Spring, Hibernate, JPA, and PostgreSQL."
+    ],
+    "imageSrc": "history/Projak.png"
+  }
+]

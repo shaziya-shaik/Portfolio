@@ -1,0 +1,26 @@
+[
+  {
+    "title": "PCOD-TIMER",
+    "imageSrc": "projects/project.png",
+    "description": "- Developed a PCOS awareness website where users can input their period date to calculate a countdown to the next menstruation date. Provided health status and PCOS precautions.",
+    "skills": ["HTML"," CSS "," JavaScript"],
+    "demo": "https://www.linkedin.com/in/shaikshaziya/",
+    "source": "https://www.linkedin.com/in/shaikshaziya/"
+  },
+  {
+    "title": "Employ-ManagementApplication",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and implemented an Employee Management web application with user authentication and CRUD operations for employee records management",
+    "skills": ["Java "," Servlet "," JDBC "," JSP "," HTML "," CSS "," MySQL."],
+    "demo": "https://www.linkedin.com/posts/shaikshaziya_java-servlet-html-activity-7001940455185674241-psFT?utm_source=share&utm_medium=member_desktop",
+    "source": "https://github.com/shaziya-shaik/Employ_details-Project-"
+  },
+  {
+    "title": "TODOApplication",
+    "imageSrc": "projects/project.png",
+    "description": " Developed a ToDo app for task management and organization, allowing users to create, prioritize, and track tasks.",
+    "skills": ["Java"," Spring Framework"," Spring MVC"," Spring Boot"," Spring Data JPA "," jQuery "," HTML "," CSS ","JavaScript"," Bootstrap "," MySQL "," Hibernate."],
+    "demo": "https://www.linkedin.com/posts/shaikshaziya_programmingjourney-java-springframework-activity-7135283170379255808-GA3q?utm_source=share&utm_medium=member_desktop",
+    "source": "https://github.com/shaziya-shaik/ToDoApplication"
+  }
+]
