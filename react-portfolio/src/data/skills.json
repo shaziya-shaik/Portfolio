@@ -8,6 +8,10 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "BootStrap",
+    "imageSrc": "skills/bootStrap.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -20,15 +24,26 @@
     "imageSrc": "skills/Java.png"
   },
   {
-    "title": "Spring Boot",
+    "title": "Spring Boot , SpringRest , Spring JPA , Spring MVC",
     "imageSrc": "skills/Spring.png"
   },
   {
     "title": "Rest API",
     "imageSrc": "skills/RestApi.png"
   },
+
   {
     "title": "MySql",
     "imageSrc": "skills/Mysql.png"
+  },
+  {
+    "title": "Hibernate/JPA",
+    "imageSrc": "skills/hibernate.png"
+  },
+
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
   }
+
 ]
